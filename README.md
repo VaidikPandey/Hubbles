@@ -62,22 +62,3 @@ npm start
 ```
 
 5. Open `http://localhost:3000` in your browser
-
-## API Documentation
-
-- `POST /api/auth/register` - User registration
-- `POST /api/auth/login` - User authentication
-- `GET /api/messages` - Fetch message history
-- `POST /api/messages` - Send new message
-
-## Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/awesome-feature`)
-3. Commit changes (`git commit -m 'Add awesome feature'`)
-4. Push to branch (`git push origin feature/awesome-feature`)
-5. Open a Pull Request
-
-## License
-
-MIT License
